@@ -5,7 +5,7 @@ import 'package:random_dice_roller/presentation/FirstScreen.dart';
 void main() {
   // setup the DI Container.
   setUpDependencies();
-  
+
   runApp(RecapOnFlutterApp());
 }
 
