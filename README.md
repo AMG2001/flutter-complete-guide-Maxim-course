@@ -2,7 +2,7 @@
 
 - This repo contain the whole projects that i have implemented with Maxim in this course :
 
-[](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/)
+[flutter-complete-guide-course || Udemy](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/)
 
 - As i have a previous knowledge in flutter , i decided to re-implement these projects but with my own and with advanced topics as [ responsive design 📱 , Dependency Injection 💉 , State Management 🧑‍💼 ] .
 
